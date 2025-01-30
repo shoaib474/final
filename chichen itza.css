@@ -1,0 +1,182 @@
+ a.main3{
+    margin-top: 50px;
+}
+.su
+{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px 30px 0px 0px;
+    overflow: hidden;
+    border: 1px solid aqua;
+}
+.ij{
+    border-bottom: 300px solid #000000;
+
+	border-right: 300px solid transparent;
+    width: 600px;
+    margin-top: 100px;
+    position: absolute;
+  
+    
+    
+}
+
+.il{
+    
+        border-bottom: 300px solid #000000;
+
+        border-left: 300px solid transparent;
+        width: 600px;
+        margin-left: 959px;
+       margin-top: 100px;
+        position: absolute;
+    
+}
+
+.si{
+    margin-top: 3px;
+    width: 100%;
+    height: 400px;
+    background-color: #000000;
+}
+.picw{
+width: 44.78%;
+height: 400px;
+background-image: url(forbidden-city-4.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+border: 1px solid aqua;
+}
+.info{
+width: 55%;
+height: 400px;
+background-color: aliceblue;
+margin-left: 45%;
+margin-top: -400px;
+border: 1px solid aqua;
+}
+.sa{
+    margin-top: 3px;
+    width: 100%;
+    height: 600px;
+    background-color: #000000;
+}
+.p1{
+height: 260px;
+width: 33.36%;
+background-color: aliceblue;
+border: 1px solid aqua;
+}
+.p2{
+    background-color: aliceblue;
+    height: 337px;
+    width: 40%;
+    margin-top: 3px; 
+    position: absolute;
+    border: 1px solid aqua;
+}
+.p3
+{
+    width: 30%;
+    height:260px ;
+    background-color: aliceblue;
+    margin-left: 33.56%;
+    margin-top: -260px;
+    border: 1px solid aqua;
+}
+.p4
+{
+    width: 566px;
+    height:260px ;
+    background-color:  aliceblue;
+    margin-left: 995px;
+    margin-top: -260px;
+    border: 1px solid aqua;
+}
+.p5
+{
+    width: 924px;
+    height:337px ;
+    background-color: aliceblue;
+    margin-left: 637px;
+    margin-top: 3px;
+    border: 1px solid aqua;
+}
+.sz{
+    width: 100%;
+    height: 350px;
+    margin-top: 3px;
+    background-color: #000000;
+
+}
+.z1{
+    width: 70%;
+    height: 350px;
+    background-color: aliceblue;
+    border: 1px solid aqua;
+}
+.z2{
+    width: 29.70%;
+    height: 350px;
+    background-image: url(mkd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 70.30%;
+    margin-top: -350px;
+    border: 1px solid aqua;
+}
+.x{
+    width: 100%;
+    height: 600px;
+    background-color: aliceblue;
+    margin-top: 3px;
+    border: 1px solid aqua;
+}
+.last{
+    width: 100%;
+    height: 400px;
+    margin-top: 3px;
+    background-image: url(beijing-forbidden-city-2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid aqua;
+   
+}
+.pici{
+    margin-top: 3px;
+    width: 100%;
+    height: auto;
+    border-radius: 0px 0px 30px 30px;
+    background-color: aliceblue;
+    border: 1px solid aqua;
+}
+.hide img{
+    border: 1px solid aqua;
+    
+}
+#pic1{
+    border: 1px solid aqua;
+}
+#pic2{
+    border: 1px solid aqua;
+}
+#pic3{
+    border: 1px solid aqua;
+}
+#pic4{
+    border: 1px solid aqua;
+}
+#pic5{
+    border: 1px solid aqua;
+}
+#pic6{
+    border: 1px solid aqua;
+}
+#pic7{
+    border: 1px solid aqua;
+}
+#pic8{
+    border: 1px solid aqua;
+}
+

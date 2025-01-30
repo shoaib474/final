@@ -1,0 +1,418 @@
+.card{
+    width: 900px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 30px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to right, #717374, #555252);
+    content: 'AUDI';
+    color: aliceblue;
+}
+.card1{
+    width: 300px;
+    height: 300px;
+    background-image: url(ew.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    
+}
+.card1:hover{
+    margin-left: -50px;
+    
+}
+.card2{
+    width: 300px;
+    height: 300px;
+    background-image: url(st\ peter.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card2:hover{
+    margin-left: -50px;
+}
+.card3{
+    width: 300px;
+    height: 300px;
+    background-image: url(versailles.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card3:hover{
+    margin-left: -50px;
+}
+.card4{
+    width: 300px;
+    height: 300px;
+    background-image: url(lincoln.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card4:hover{
+    margin-left: -50px;
+}
+.card5{
+    width: 300px;
+    height: 300px;
+    background-image: url(coloseumm.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card5:hover{
+    margin-left: -50px;
+}
+.card6{
+    width: 300px;
+    height: 300px;
+    background-image: url(athens.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card6:hover{
+    margin-left: -50px;
+}
+.card7{
+    width: 300px;
+    height: 300px;
+    background-image: url(eiffel1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card7:hover{
+    margin-left: -50px;
+}
+.card8{
+    width: 300px;
+    height: 300px;
+    background-image: url(taj\ mahal.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card8:hover{
+    margin-left: -50px;
+}
+.card9{
+    width: 300px;
+    height: 300px;
+    background-image: url(cologne.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card9:hover{
+    margin-left: -50px;
+}
+.card10{
+    width: 300px;
+    height: 300px;
+    background-image: url(peter.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card10:hover{
+    margin-left: -50px;
+}
+.card16{
+    width: 300px;
+    height: 300px;
+    background-image: url(sagrada.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card16:hover{
+    margin-left: -50px;
+}
+
+.card19{
+    width: 300px;
+    height: 300px;
+    background-image: url(mysore.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card19:hover{
+    margin-left: -50px;
+}
+.card26{
+    width: 300px;
+    height: 300px;
+    background-image: url(alhambra.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card26:hover{
+    margin-left: -50px;
+}
+.card30{
+    width: 300px;
+    height: 300px;
+    background-image: url(kremlin.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card30:hover{
+    margin-left: -50px;
+}
+.card31{
+    width: 300px;
+    height: 300px;
+    background-image: url(tulum-mexico-summer-wallpaper-preview.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card31:hover{
+    margin-left: -50px;
+}
+.card32{
+    width: 300px;
+    height: 300px;
+    background-image: url(witz.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card32:hover{
+    margin-left: -50px;
+}
+.card33{
+    width: 300px;
+    height: 300px;
+    background-image: url(edinburgh.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card33:hover{
+    margin-left: -50px;
+}
+.card34{
+    width: 300px;
+    height: 300px;
+    background-image: url(cordoba.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card34:hover{
+    margin-left: -50px;
+}
+.card35{
+    width: 300px;
+    height: 300px;
+    background-image: url(alcazar.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card35:hover{
+    margin-left: -50px;
+}
+.card36{
+    width: 300px;
+    height: 300px;
+    background-image: url(wawe\,.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card36:hover{
+    margin-left: -50px;
+}
+.card37{
+    width: 300px;
+    height: 300px;
+    background-image: url(arc.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card37:hover{
+    margin-left: -50px;
+}
+.card38{
+    width: 300px;
+    height: 300px;
+    background-image: url(madrid.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card38:hover{
+    margin-left: -50px;
+}
+.card39{
+    width: 300px;
+    height: 300px;
+    background-image: url(asd.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card39:hover{
+    margin-left: -50px;
+}
+.card40{
+    width: 300px;
+    height: 300px;
+    background-image: url(machu.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card40:hover{
+    margin-left: -50px;
+}
+.card41{
+    width: 300px;
+    height: 300px;
+    background-image: url(castillo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 50px;
+    border-radius: 40px 40px 40px 40px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card41:hover{
+    margin-left: -50px;
+}
+.hee{
+    margin-top: 60px;
+margin-left: 350px; 
+color: black;
+}
